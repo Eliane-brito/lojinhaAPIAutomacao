@@ -4,7 +4,7 @@ um software denominado Lojinha. Os subtópicos abaixo descrevem algumas decisõe
 
 ## Tecnologias Utilizadas
 
-- Java
+- Java 
   https://www.oracle.com/ae/java/technologies/downloads/
 - Junit
   https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.7.1
