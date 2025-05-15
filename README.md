@@ -36,4 +36,4 @@ Os testes cobrem diferentes cenários, garantindo que a API aceite apenas valore
 
 Este projeto tem como finalidade a prática e demonstração de conhecimentos em automação de testes de API REST com Java. Ele pode ser expandido com mais cenários, integrações e validações conforme a evolução da aplicação Lojinha.
 
----
+
